@@ -1,0 +1,196 @@
+
+		body {
+			background-image: url('bg2.jpg');
+			background-size: 150%;
+
+		}
+		
+		.header {
+			background: white;
+			color: black;
+			width: 100%;
+			height: 90px;
+			font-family: arial;
+			padding: 25px 0px;
+		}
+		.header2 {
+			color: white;
+			font-family: arial;
+			align-content: center;
+			font-weight: bold;
+			padding: 25px 0px;
+			font-size:40px;
+		}
+
+		* {
+			box-sizing: border-box;
+			padding: 0;
+			margin: 0;
+		}
+
+		.container {
+			display: grid;
+			justify-content:left;
+			align-items: left;
+			flex-wrap: wrap;
+			gap: 1px;
+			grid-template-columns: repeat(auto-fit, minmax(183px, 1fr));
+			grid-auto-rows: 430px;
+			grid-column-gap: 10px;
+			grid-row-gap: 5px;
+		}
+
+		.box {
+			background: white;
+			width: 200px;
+			height: 400px;
+			margin: 10px;
+			font-family: arial;
+
+		}
+
+		
+		.image {
+			background-color: orange;
+			height: 300px ;
+			margin-bottom: 15px;
+			background-size:cover ;
+
+
+		}
+
+		.box button {
+			text-align: center;
+			height: 18px;
+			width: 201px;
+			background-color: orange;
+			border-color: black;
+			font-family: arial;
+
+
+
+		}
+
+
+		button:hover {
+			color: blue;
+		}
+
+
+		container.hover {
+			background-color: black;
+		}
+
+		.car1 {
+			background-image: url(car1.jpg);
+
+		}
+
+		.car2 {
+			background-image: url(car2.jpg);
+
+		}
+
+		.car3 {
+			background-image: url(car3.jpg);
+
+		}
+
+		.car4 {
+			background-image: url(car4.jpg);
+
+		}
+
+		.car5 {
+			background-image: url(car5.jpg);
+
+		}
+
+		.car6 {
+			background-image: url(car6.jpg);
+
+		}
+
+		.car7 {
+			background-image: url(car7.jpg);
+
+		}
+
+		.car8 {
+			background-image: url(car8.jpg);
+
+		}
+
+		.car9 {
+			background-image: url(car9.jpg);
+
+		}
+
+		.car10 {
+			background-image: url(car10.jpg);
+
+		}
+
+		.car11 {
+			background-image: url(car11.jpg);
+
+		}
+
+		.car12 {
+			background-image: url(car12.jpg);
+
+		}
+
+		.car13 {
+			background-image: url(car13.jpg);
+
+		}
+
+		.car14 {
+			background-image: url(car14.jpg);
+
+		}
+
+		.car15 {
+			background-image: url(car15.jpg);
+
+		}
+
+
+		.car16 {
+			background-image: url(car16.jpg);
+
+		}
+
+		.car17 {
+			background-image: url(car17.jpg);
+
+		}
+
+		.car18 {
+			background-image: url(car18.jpg);
+
+		}
+
+		.car19 {
+			background-image: url(car19.jpg);
+
+		}
+
+		.car20 {
+			background-image: url(car20.jpg);
+
+		}
+
+
+		.box h3 {
+			padding: 5px;
+			text-align: center;
+
+		}
+
+		.box p {
+			padding: 1px;
+			text-align: center;
+		}
+		
